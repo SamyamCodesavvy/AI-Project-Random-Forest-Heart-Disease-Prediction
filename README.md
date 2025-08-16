@@ -98,8 +98,7 @@ random-forest-heart-disease/
 ├── train1.py                # Synthetic dataset training script
 ├── templates/
 │   └── index.html           # Interactive web interface
-├── data/
-│   └── heart.csv           # UCI heart disease dataset (303 samples)
+├── heart.csv                # UCI heart disease dataset (303 samples)
 └── README.md
 ```
 
