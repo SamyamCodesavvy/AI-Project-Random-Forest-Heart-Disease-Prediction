@@ -264,9 +264,6 @@ This implementation provides hands-on experience with:
 - **Project Link**: [Random Forest Heart Disease Prediction](https://github.com/samyamcodesavvy/random-forest-heart-disease)
 
 
-
-This project is open source and available under the MIT License. Feel free to use, modify, and distribute for educational and research purposes.
-
 ---
 
 **Developed with ❤️ for educational purposes at IOE, Pulchowk Campus**  
